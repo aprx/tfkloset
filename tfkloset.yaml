@@ -1,0 +1,8 @@
+name: TfKloset
+
+server:
+  address: 127.0.0.1
+  port: 8080
+
+store:
+  path: /tmp/kloset
